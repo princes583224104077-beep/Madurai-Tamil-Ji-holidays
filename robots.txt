@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /admin/
+Disallow: /book_submit.php
+Disallow: /enquiry_submit.php
+Disallow: /newsletter_submit.php
+
+Sitemap: https://www.tamiljiholidays.com/sitemap.xml
